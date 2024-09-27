@@ -14,7 +14,7 @@ Banks collect loan data through various channels and processes, including:
 <h3>Online Portals </h3>: Many banks offer online platforms where borrowers can apply for loans, make payments, and access account information. Data from these portals is collected and stored for analysis.
 <h3>Third-party Data Sources </h3>: Some banks may use external data sources, such as income verification services, to gather additional information about borrowers.
 
-<h1>Reasons for Analysing Bank Loan Data:</h1>
+<h2>Reasons for Analysing Bank Loan Data:</h2>
 Banks analyse loan data for several critical reasons:
 <h3>Risk Assessment</h3>: One of the primary purposes of analysing loan data is to assess the risk associated with lending to a particular individual or business. Banks use data to evaluate the creditworthiness of borrowers, predict default probabilities, and determine interest rates and lending terms.
 <h3>Decision-making</h3>: Loan data analysis supports the decision-making process when evaluating loan applications. Banks use data-driven models and algorithms to make informed lending decisions, such as approving or denying loan requests.
