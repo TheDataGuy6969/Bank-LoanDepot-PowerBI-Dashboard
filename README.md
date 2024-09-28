@@ -1,7 +1,3 @@
-<h1 align="center">Data Visualization (Dashboards) Using Power BI 📊 </h1>
-
-Here's a quick look at my Power BI dashboards, created during my free time. They showcase data visualization skills and highlight insights through interactive graphs and charts. Each dashboard focuses on different themes, like sales performance or market trends, reflecting my passion for data analysis and design.
-
 <h1 align="center"> Project - Bank LoanDepot Report Analysis </h1>
 
 <h1>Domain Architecture for Knowledge - </h1>
